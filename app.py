@@ -51,4 +51,4 @@ if st.button("Predict"):
     st.subheader("💨 Predicted Wind Speed:")
     st.write(f"**{wind_prediction:.2f} m/s**")
 
-st.write("Developed By Musadiq Surya Siranjeevi**")
+st.write("Developed By-Musadiq,Surya,Siranjeevi**")
